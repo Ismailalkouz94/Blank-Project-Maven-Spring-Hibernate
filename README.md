@@ -1,1 +1,1 @@
-# Blank-Project-Maven-Spring-Hibernate
+Blank Project - Maven4 - Spring5 - Hibernate5 
